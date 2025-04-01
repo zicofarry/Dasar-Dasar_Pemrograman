@@ -1,0 +1,10 @@
+C001 Medium_Tank
+C002 Infantry_Tank
+C003 Heavy_TanK
+C004 kelas_C2
+C005 Kelas_C1
+C006 KELAZZZ_PakDOSEN
+C007 Kelaz_Arap
+C008 Kelazz_Kinggz
+C018 Tank_Baja
+#### ####
