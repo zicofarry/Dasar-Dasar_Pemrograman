@@ -1,0 +1,13 @@
+N001 Papua_Barat
+N002 United_Kingdom
+N003 United_States
+N004 Amerisya_Usyara
+N005 Nigeria
+N006 Singapore
+N007 Hogwart
+N008 Bekasi
+N009 Indonesia
+N010 Manchester_City
+N012 Manchester_United
+N018 Negara_Apanih
+#### ####
